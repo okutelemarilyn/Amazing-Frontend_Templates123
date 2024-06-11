@@ -532,142 +532,42 @@ input[type="checkbox"] {
   background-color: rgba(209, 46, 46, 0.8);
 }
 /* FOOTER */
- footer{
-  height: 32vh;
-  width: 100vw;
- }
-.foot{
-  width: 100%;
+.head{
+  background-color: #343A40;
   height: 100%;
-  background-color: #112B3C;
-}
-.foot1{
-  position: relative;
-  color: rgb(249, 235, 200);
-  top: 100px;
-  left: 150px;
-  height: 150px;
-  width: 150px;
-  text-align: left;
-}
-.footh{
- 
-  font-weight: bold;
-}
-.footi{
-  font-size: 14px; 
-}
-.foot11{
-  position: relative;
-  top: 20px;
-  
-}
-.foot12{
-  
-  position: relative;
-  top: 24px;
-}
-.foot13{
-  
-  position: relative;
-  top: 28px;
-}
-.foot2{
-  position: relative;
-  color: rgb(249, 235, 200);
-  top: -69px;
-  left: 300px;
-  height: 150px;
-  width: 150px;
-  text-align: left;
+  border-top: 3px solid red;
+  margin-top: 30px;
 }
 
-
-.foot21{
-  position: relative;
-  top: 20px;
-  
-  
-}
-.foot22{
-  
-  position: relative;
-  top: 22px;
-}
-.foot23{
-  
-  position: relative;
-  top: 24px;
-}
-.foot3{
-  position: relative;
-  color: rgb(249, 235, 200);
-  top: -221px;
-  left: 600px;
-  height: 150px;
-  width: 150px;
-  text-align: left;
+.laugh{
+  margin-left: 250px;
+  padding-top: 30px;
 }
 
+.laugh h1{
+  color: #fff;
+  margin-left: 300px;
+  font-size: 40px;
+  font-weight: 600;
+}
 
-.foot31{
-  position: relative;
-  top: 20px;
-  
-  
+.laugh p{
+  color: #fff;
+  width: 800px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 16px;
 }
-.foot32{
-  
-  position: relative;
-  top: 22px;
-}
-.foot33{
-  
-  position: relative;
-  top: 24px;
-}
-.copyright{
-  width: 158px;
-  position: relative;
-  bottom: 300px;
-  left: 980px;
-}
-.fb{
-  font-size: 52px;
-  position: relative;
-  height: 50px;
-  width: 50px;
-  bottom: 420px;
-  right: -890px;
-  border-radius: 44px;
 
+.tell{
+  padding-top: 50px;
+  width: 500px;
+  text-align: center;
+  margin-left: 400px;
+  padding-bottom: 20px;
 }
-.ins{
-  font-size: 52px;
-  position: relative;
-  height: 50px;
-  width: 50px;
-  bottom: 470px;
-  right: -980px;
-  border-radius: 44px;
 
-}
-.in{
-  font-size: 52px;
-  position: relative;
-  height: 50px;
-  width: 50px;
-  bottom: 520px;
-  right: -1070px;
-  border-radius: 44px;
-
-}
-.tw{
-  font-size: 52px;
-  position: relative;
-  height: 50px;
-  width: 50px;
-  bottom: 570px;
-  right: -1160px;
-  border-radius: 44px;
+.tell p{
+  color: #fff;
+  font-size: 16px;
 }
